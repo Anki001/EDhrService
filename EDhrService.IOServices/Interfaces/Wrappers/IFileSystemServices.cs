@@ -1,4 +1,4 @@
-﻿namespace EDhrService.IOServices.Interfaces.Wrappers
+﻿namespace FileMonitor.IOServices.Interfaces.Wrappers
 {
     public interface IFileSystemServices
     {

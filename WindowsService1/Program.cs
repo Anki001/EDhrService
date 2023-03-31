@@ -1,10 +1,10 @@
-﻿using EDhrService.Common;
-using EDhrService.Common.Interfaces;
-using EDhrService.DataStores.Implementation;
-using EDhrService.DataStores.Infrastructure;
-using EDhrService.DataStores.Interfaces;
-using EDhrService.IOServices;
-using EDhrService.IOServices.Interfaces;
+﻿using FileMonitor.Common;
+using FileMonitor.Common.Interfaces;
+using FileMonitor.DataStores.Implementation;
+using FileMonitor.DataStores.Infrastructure;
+using FileMonitor.DataStores.Interfaces;
+using FileMonitor.IOServices;
+using FileMonitor.IOServices.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using System.Linq;
 using System.Reflection;

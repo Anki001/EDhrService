@@ -1,4 +1,4 @@
-﻿namespace EDhrService.Common.Models
+﻿namespace FileMonitor.Common.Models
 {
     public class AnkImage
     {

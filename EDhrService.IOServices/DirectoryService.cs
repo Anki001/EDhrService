@@ -1,7 +1,7 @@
-﻿using EDhrService.IOServices.Interfaces;
+﻿using FileMonitor.IOServices.Interfaces;
 using System.IO;
 
-namespace EDhrService.IOServices
+namespace FileMonitor.IOServices
 {
     public class DirectoryService : IDirectory
     {

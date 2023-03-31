@@ -1,4 +1,4 @@
-﻿namespace EDhrService.Common.Interfaces
+﻿namespace FileMonitor.Common.Interfaces
 {
     public interface IApplicationConfiguration
     {

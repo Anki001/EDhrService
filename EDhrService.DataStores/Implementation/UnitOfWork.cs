@@ -1,8 +1,8 @@
-﻿using EDhrService.DataStores.Interfaces;
-using EDhrService.DataStores.Repositories;
+﻿using FileMonitor.DataStores.Interfaces;
+using FileMonitor.DataStores.Repositories;
 using System;
 
-namespace EDhrService.DataStores.Implementation
+namespace FileMonitor.DataStores.Implementation
 {
     public class UnitOfWork : IUnitOfWork
     {

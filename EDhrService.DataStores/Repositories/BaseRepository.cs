@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EDhrService.DataStores.Repositories
+namespace FileMonitor.DataStores.Repositories
 {
     public class BaseRepository
     {

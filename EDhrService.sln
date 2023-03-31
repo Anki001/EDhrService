@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDhrWinService", "WindowsService1\EDhrWinService.csproj", "{33A47961-5446-4613-B683-8CB78FDE9C23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMonitorWinService", "WindowsService1\FileMonitorWinService.csproj", "{33A47961-5446-4613-B683-8CB78FDE9C23}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDhrService.IOServices", "EDhrService.IOServices\EDhrService.IOServices.csproj", "{7E61F484-CEEC-409A-8955-B9ED7153E006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileMonitor.IOServices", "EDhrService.IOServices\FileMonitor.IOServices.csproj", "{7E61F484-CEEC-409A-8955-B9ED7153E006}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDhrService.DataStores", "EDhrService.DataStores\EDhrService.DataStores.csproj", "{B5A99D90-ADB8-469C-A143-EF7138FF43DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileMonitor.DataStores", "EDhrService.DataStores\FileMonitor.DataStores.csproj", "{B5A99D90-ADB8-469C-A143-EF7138FF43DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDhrService.Common", "EDhrService.Common\EDhrService.Common.csproj", "{B33861E4-0729-4B14-A374-0B1F87C8190E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMonitor.Common", "EDhrService.Common\FileMonitor.Common.csproj", "{B33861E4-0729-4B14-A374-0B1F87C8190E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

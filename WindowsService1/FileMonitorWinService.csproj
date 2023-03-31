@@ -73,17 +73,17 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EDhrService.Common\EDhrService.Common.csproj">
+    <ProjectReference Include="..\EDhrService.Common\FileMonitor.Common.csproj">
       <Project>{B33861E4-0729-4B14-A374-0B1F87C8190E}</Project>
-      <Name>EDhrService.Common</Name>
+      <Name>FileMonitor.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EDhrService.DataStores\EDhrService.DataStores.csproj">
+    <ProjectReference Include="..\EDhrService.DataStores\FileMonitor.DataStores.csproj">
       <Project>{b5a99d90-adb8-469c-a143-ef7138ff43de}</Project>
-      <Name>EDhrService.DataStores</Name>
+      <Name>FileMonitor.DataStores</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EDhrService.IOServices\EDhrService.IOServices.csproj">
+    <ProjectReference Include="..\EDhrService.IOServices\FileMonitor.IOServices.csproj">
       <Project>{7e61f484-ceec-409a-8955-b9ed7153e006}</Project>
-      <Name>EDhrService.IOServices</Name>
+      <Name>FileMonitor.IOServices</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

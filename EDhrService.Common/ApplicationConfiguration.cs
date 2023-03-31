@@ -1,9 +1,9 @@
-﻿using EDhrService.Common.Interfaces;
-using EDhrService.Common.Types;
+﻿using FileMonitor.Common.Interfaces;
+using FileMonitor.Common.Types;
 using System;
 using System.Configuration;
 
-namespace EDhrService.Common
+namespace FileMonitor.Common
 {
     public class ApplicationConfiguration : IApplicationConfiguration
     {

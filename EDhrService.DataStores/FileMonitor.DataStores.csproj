@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EDhrService.Common\EDhrService.Common.csproj" />    
+    <ProjectReference Include="..\EDhrService.Common\FileMonitor.Common.csproj" />    
   </ItemGroup>
 
   <ItemGroup>

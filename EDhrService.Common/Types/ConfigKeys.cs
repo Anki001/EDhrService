@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EDhrService.Common.Types
+namespace FileMonitor.Common.Types
 {
     public static class ConfigKeys
     {

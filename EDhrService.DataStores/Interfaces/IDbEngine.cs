@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace EDhrService.DataStores.Interfaces
+namespace FileMonitor.DataStores.Interfaces
 {
     public interface IDbEngine
     {

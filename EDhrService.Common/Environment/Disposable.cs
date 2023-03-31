@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EDhrService.Common.Environment
+namespace FileMonitor.Common.Environment
 {
     public class Disposable : IDisposable
     {

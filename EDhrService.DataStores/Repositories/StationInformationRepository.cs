@@ -1,11 +1,11 @@
-﻿using EDhrService.Common.Models;
-using EDhrService.DataStores.Infrastructure;
-using EDhrService.DataStores.Interfaces;
+﻿using FileMonitor.Common.Models;
+using FileMonitor.DataStores.Infrastructure;
+using FileMonitor.DataStores.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace EDhrService.DataStores.Repositories
+namespace FileMonitor.DataStores.Repositories
 {
     public class StationInformationRepository : BaseRepository, IRepository<AnkImage>
     {

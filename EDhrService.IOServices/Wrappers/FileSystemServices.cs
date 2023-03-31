@@ -1,7 +1,7 @@
-﻿using EDhrService.IOServices.Interfaces;
-using EDhrService.IOServices.Interfaces.Wrappers;
+﻿using FileMonitor.IOServices.Interfaces;
+using FileMonitor.IOServices.Interfaces.Wrappers;
 
-namespace EDhrService.IOServices.Wrappers
+namespace FileMonitor.IOServices.Wrappers
 {
     public class FileSystemServices : IFileSystemServices
     {

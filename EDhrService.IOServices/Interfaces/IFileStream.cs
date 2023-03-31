@@ -1,4 +1,4 @@
-﻿namespace EDhrService.IOServices.Interfaces
+﻿namespace FileMonitor.IOServices.Interfaces
 {
     public interface IFileStream
     {

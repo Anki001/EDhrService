@@ -1,7 +1,7 @@
 ﻿using Dapper;
-using EDhrService.Common.Environment;
-using EDhrService.Common.Interfaces;
-using EDhrService.DataStores.Interfaces;
+using FileMonitor.Common.Environment;
+using FileMonitor.Common.Interfaces;
+using FileMonitor.DataStores.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace EDhrService.DataStores.Infrastructure
+namespace FileMonitor.DataStores.Infrastructure
 {
     public class MsSqlDbContext : Disposable, IDbContext
     {
